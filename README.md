@@ -2,7 +2,7 @@
   <img src="logo.jpg" width="150px" align="center" alt="logo" />
   <h1 align="center">SDU-SPRO3</h1>
   <p align="center">
-    ✨ Something impotent✨
+    ✨ Something impotent ✨
     <br/>
     A short description on what this repo is about 
   </p>
