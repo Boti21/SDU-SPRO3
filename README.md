@@ -62,3 +62,5 @@ In-line:
 # Functionality
 Find out more about each functionality include in the project.
 
+
+This change was made so that the codespace won't be deleted
